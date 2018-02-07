@@ -6,7 +6,7 @@
 #Version: 1.0
 
 
-import urllib2, os
+import os
 
 while True:
 
