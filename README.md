@@ -22,7 +22,7 @@ Utilises curl command.
 
 ## Authors
 
-* **Ron Nair** - [joutei](https://github.com/joutei)
+* **Ron Nair** - [RonNair24](https://github.com/RonNair24)
 
 
 ## Acknowledgments
